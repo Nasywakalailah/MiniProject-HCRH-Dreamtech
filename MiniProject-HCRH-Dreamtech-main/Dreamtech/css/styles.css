@@ -6021,6 +6021,12 @@ textarea.form-control-lg {
   --bs-spinner-border-width: 0.2em;
 }
 
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 @keyframes spinner-grow {
   0% {
     transform: scale(0);
